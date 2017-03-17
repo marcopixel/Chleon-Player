@@ -1,7 +1,9 @@
 <p align="center">
 <img src="http://orig06.deviantart.net/d50d/f/2016/150/6/f/chleon_player_1_1_by_marcopixel-da24rvm.png">
 </p>
+
 # Chleon Media Player
+
 A minimalistic media player which fits on your deskop every time! Changes the color automatically to the desktop background.
 Supports all major media players (AIMP, iTunes, Winamp, VLC, etc...) and full Spotify support (thanks to .raptor for the Spotify plugin).
 
